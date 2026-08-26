@@ -58,4 +58,4 @@ Kernel Density Estimation (KDE) highlighting asymmetric right-skewed outcomes wh
 ## Repository Files
 
 * **Main Simulation Notebook:** [`LDI_Dynamic_Risk_Stress.ipynb`](LDI_Dynamic_Risk_Stress.ipynb)
-* **Quantitative Risk Engine:** [`edhec_risk_kit.py`](edhec_risk_kit.py)
+* **Quantitative Risk Engine:** [`quant_risk_kit.py`](quant_risk_kit.py)
